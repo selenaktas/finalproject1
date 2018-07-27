@@ -112,7 +112,10 @@ body     {
 
 
 .metinler {
-    font-size: 125%
+    font-size: 125%;
+    text-align: center;
+    margin: auto;
+    
     }
 
 .grupbaslıkları {
